@@ -4,4 +4,4 @@
 
 ## The data set used:
 	
-	[Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult)
+- [Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult)
